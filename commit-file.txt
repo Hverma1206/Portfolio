@@ -1,1 +1,1 @@
-Commit for 2019-02-20 - Refactor code
+Commit for 2019-02-21 - Improve logging
