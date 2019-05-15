@@ -1,1 +1,1 @@
-Commit for 2019-05-15 - Update translations
+Commit for 2019-05-15 - Fix deployment script
