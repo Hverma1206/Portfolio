@@ -1,1 +1,1 @@
-Commit for 2019-05-16 - Enhance SEO optimization
+Commit for 2019-05-16 - Refactor authentication
