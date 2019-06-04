@@ -1,1 +1,1 @@
-Commit for 2019-06-04 - Remove unused code
+Commit for 2019-06-04 - Optimize image compression
