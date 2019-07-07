@@ -1,1 +1,1 @@
-Commit for 2019-07-06 - Fix incorrect data display
+Commit for 2019-07-07 - Refactor form validation
