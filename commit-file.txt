@@ -1,1 +1,1 @@
-Commit for 2019-07-30 - Optimize sorting algorithm
+Commit for 2019-07-30 - Optimize session handling
