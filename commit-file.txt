@@ -1,1 +1,1 @@
-Commit for 2019-08-15 - Improve server response headers
+Commit for 2019-08-16 - Update README
