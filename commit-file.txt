@@ -1,1 +1,1 @@
-Commit for 2019-08-16 - Enhance login page
+Commit for 2019-08-16 - Improve security patch
