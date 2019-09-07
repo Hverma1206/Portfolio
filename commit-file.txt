@@ -1,1 +1,1 @@
-Commit for 2019-09-07 - Optimize response time
+Commit for 2019-09-07 - Improve password hashing
