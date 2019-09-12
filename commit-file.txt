@@ -1,1 +1,1 @@
-Commit for 2019-09-11 - Improve validation
+Commit for 2019-09-12 - Code cleanup
