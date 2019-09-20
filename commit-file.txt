@@ -1,1 +1,1 @@
-Commit for 2019-09-20 - Reduce latency
+Commit for 2019-09-20 - Improve docs
