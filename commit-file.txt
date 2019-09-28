@@ -1,1 +1,1 @@
-Commit for 2019-09-28 - Fix date formatting
+Commit for 2019-09-28 - Fix typo
