@@ -1,1 +1,1 @@
-Commit for 2019-09-28 - Fix typo
+Commit for 2019-09-28 - Refactor code
