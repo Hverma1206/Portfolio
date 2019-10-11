@@ -1,1 +1,1 @@
-Commit for 2019-10-11 - Improve navbar design
+Commit for 2019-10-11 - Refactor API calls
