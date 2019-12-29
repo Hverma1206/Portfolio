@@ -1,1 +1,1 @@
-Commit for 2019-12-29 - Improve UX
+Commit for 2019-12-29 - Fix validation regex
