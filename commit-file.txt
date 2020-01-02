@@ -1,1 +1,1 @@
-Commit for 2023-08-22 - Fix iOS-specific bug
+Commit for 2020-01-02 - Fix WebSocket issues
