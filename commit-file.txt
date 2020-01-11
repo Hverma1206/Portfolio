@@ -1,1 +1,1 @@
-Commit for 2020-01-11 - Fix minor bug
+Commit for 2020-01-11 - Reformat code
