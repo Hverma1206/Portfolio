@@ -1,1 +1,1 @@
-Commit for 2020-01-26 - Improve server response headers
+Commit for 2020-01-26 - Fix text overflow
