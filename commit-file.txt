@@ -1,1 +1,1 @@
-Commit for 2020-01-26 - Fix text overflow
+Commit for 2020-01-27 - Improve keyboard shortcuts
