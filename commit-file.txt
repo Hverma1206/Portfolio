@@ -1,1 +1,1 @@
-Commit for 2020-02-09 - Improve password hashing
+Commit for 2020-02-09 - Fix WebSocket issues
