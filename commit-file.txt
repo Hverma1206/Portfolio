@@ -1,1 +1,1 @@
-Commit for 2020-02-11 - Refactor code
+Commit for 2020-02-11 - Fix memory leak
