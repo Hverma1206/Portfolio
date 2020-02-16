@@ -1,1 +1,1 @@
-Commit for 2020-02-16 - Refactor database schema
+Commit for 2020-02-16 - Improve error handling
