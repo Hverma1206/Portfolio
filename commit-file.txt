@@ -1,1 +1,1 @@
-Commit for 2020-02-16 - Improve error handling
+Commit for 2020-02-16 - Improve mobile experience
