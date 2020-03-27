@@ -1,1 +1,1 @@
-Commit for 2020-03-27 - Improve animations
+Commit for 2020-03-27 - Fix timeout issue
