@@ -1,1 +1,1 @@
-Commit for 2020-03-29 - Add logging
+Commit for 2020-03-30 - Improve mobile experience
