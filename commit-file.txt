@@ -1,1 +1,1 @@
-Commit for 2020-05-17 - Fix 404 errors
+Commit for 2020-05-17 - Enhance accessibility
