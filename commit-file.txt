@@ -1,1 +1,1 @@
-Commit for 2020-06-14 - Enhance login page
+Commit for 2020-06-14 - Improve error handling
