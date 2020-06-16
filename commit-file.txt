@@ -1,1 +1,1 @@
-Commit for 2024-02-09 - Improve server response headers
+Commit for 2020-06-16 - Improve docs
