@@ -1,1 +1,1 @@
-Commit for 2020-08-12 - Improve error handling
+Commit for 2020-08-12 - Fix validation regex
