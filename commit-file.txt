@@ -1,1 +1,1 @@
-Commit for 2020-08-17 - Enhance search functionality
+Commit for 2020-08-17 - Improve user feedback messages
