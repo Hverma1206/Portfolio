@@ -1,1 +1,1 @@
-Commit for 2020-08-24 - Refactor GraphQL queries
+Commit for 2020-08-25 - Refactor Redux state
