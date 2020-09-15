@@ -1,1 +1,1 @@
-Commit for 2024-05-01 - Improve error handling
+Commit for 2024-05-01 - Improve navbar design
