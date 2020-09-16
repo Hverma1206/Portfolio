@@ -1,1 +1,1 @@
-Commit for 2024-05-01 - Improve navbar design
+Commit for 2020-09-16 - Fix text overflow
