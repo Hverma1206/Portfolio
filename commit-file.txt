@@ -1,1 +1,1 @@
-Commit for 2024-05-06 - Fix memory leak
+Commit for 2020-09-21 - Improve navbar design
