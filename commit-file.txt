@@ -1,1 +1,1 @@
-Commit for 2020-09-28 - Code simplification
+Commit for 2020-09-28 - Fix input focus behavior
