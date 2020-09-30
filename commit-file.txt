@@ -1,1 +1,1 @@
-Commit for 2020-09-30 - Optimize response time
+Commit for 2020-09-30 - Optimize query
