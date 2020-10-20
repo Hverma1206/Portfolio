@@ -1,1 +1,1 @@
-Commit for 2020-10-20 - Enhance security
+Commit for 2020-10-20 - Improve docs
