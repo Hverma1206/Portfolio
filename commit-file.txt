@@ -1,1 +1,1 @@
-Commit for 2024-05-31 - Fix missing translations
+Commit for 2020-10-22 - Fix text overflow
