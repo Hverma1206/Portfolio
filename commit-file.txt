@@ -1,1 +1,1 @@
-Commit for 2020-11-20 - Fix rare bug
+Commit for 2020-11-20 - Fix CSS issue
