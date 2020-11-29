@@ -1,1 +1,1 @@
-Commit for 2024-07-08 - Improve breadcrumb navigation
+Commit for 2020-11-29 - Fix text overflow
