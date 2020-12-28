@@ -1,1 +1,1 @@
-Commit for 2024-08-06 - Fix iOS-specific bug
+Commit for 2020-12-28 - Improve UX
