@@ -1,1 +1,1 @@
-Commit for 2024-08-07 - Improve keyboard shortcuts
+Commit for 2020-12-30 - Fix memory leak
