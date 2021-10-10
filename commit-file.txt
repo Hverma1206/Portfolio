@@ -1,1 +1,1 @@
-Commit for 2021-10-09 - Update README
+Commit for 2021-10-10 - Optimize sorting algorithm
