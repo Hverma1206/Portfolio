@@ -1,1 +1,1 @@
-Commit for 2021-10-16 - Improve UX
+Commit for 2021-10-16 - Improve API documentation
