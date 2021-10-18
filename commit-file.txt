@@ -1,1 +1,1 @@
-Commit for 2021-10-18 - Add logging
+Commit for 2021-10-18 - Code cleanup
