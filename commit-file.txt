@@ -1,1 +1,1 @@
-Commit for 2021-10-23 - Refactor CSS styles
+Commit for 2021-10-24 - Fix deployment script
