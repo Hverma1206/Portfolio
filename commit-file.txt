@@ -1,1 +1,1 @@
-Commit for 2021-10-24 - Fix deployment script
+Commit for 2021-10-24 - Code simplification
