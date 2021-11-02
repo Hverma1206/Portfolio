@@ -1,1 +1,1 @@
-Commit for 2021-11-02 - Fix network timeout
+Commit for 2021-11-02 - Fix 404 errors
