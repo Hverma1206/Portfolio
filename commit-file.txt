@@ -1,1 +1,1 @@
-Commit for 2021-11-05 - Enhance modal animations
+Commit for 2021-11-06 - Code cleanup
