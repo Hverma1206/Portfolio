@@ -1,1 +1,1 @@
-Commit for 2021-11-08 - Fix duplicate requests
+Commit for 2021-11-08 - Improve button responsiveness
