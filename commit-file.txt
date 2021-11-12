@@ -1,1 +1,1 @@
-Commit for 2021-11-12 - Fix date formatting
+Commit for 2021-11-12 - Improve UX
