@@ -1,1 +1,1 @@
-Commit for 2021-11-14 - Improve error handling
+Commit for 2021-11-14 - Improve server response headers
