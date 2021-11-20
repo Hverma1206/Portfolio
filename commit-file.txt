@@ -1,1 +1,1 @@
-Commit for 2021-11-19 - Improve button responsiveness
+Commit for 2021-11-20 - Add logging
