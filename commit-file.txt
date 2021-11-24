@@ -1,1 +1,1 @@
-Commit for 2021-11-23 - Optimize background sync
+Commit for 2021-11-24 - Fix crash issue
