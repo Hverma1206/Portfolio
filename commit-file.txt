@@ -1,1 +1,1 @@
-Commit for 2021-11-25 - Improve API rate limiting
+Commit for 2021-11-25 - Fix 404 errors
