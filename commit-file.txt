@@ -1,1 +1,1 @@
-Commit for 2021-11-29 - Adjust layout
+Commit for 2021-11-29 - Fix authorization logic
