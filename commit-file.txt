@@ -1,1 +1,1 @@
-Commit for 2021-11-30 - Add logging
+Commit for 2021-11-30 - Improve database queries
