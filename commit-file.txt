@@ -1,1 +1,1 @@
-Commit for 2021-12-03 - Fix server crash
+Commit for 2021-12-04 - Add logging
