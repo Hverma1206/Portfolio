@@ -1,1 +1,1 @@
-Commit for 2021-12-04 - Add logging
+Commit for 2021-12-04 - Reduce latency
