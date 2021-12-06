@@ -1,1 +1,1 @@
-Commit for 2021-12-06 - Fix input focus behavior
+Commit for 2021-12-06 - Improve button responsiveness
