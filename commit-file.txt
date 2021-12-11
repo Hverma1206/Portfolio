@@ -1,1 +1,1 @@
-Commit for 2021-12-11 - Enhance modal animations
+Commit for 2021-12-11 - Update README
