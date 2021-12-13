@@ -1,1 +1,1 @@
-Commit for 2021-12-13 - Improve logging
+Commit for 2021-12-13 - Improve docs
