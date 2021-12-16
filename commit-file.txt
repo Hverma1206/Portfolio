@@ -1,1 +1,1 @@
-Commit for 2021-12-16 - Optimize response time
+Commit for 2021-12-16 - Optimize image compression
