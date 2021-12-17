@@ -1,1 +1,1 @@
-Commit for 2021-12-16 - Fix duplicate requests
+Commit for 2021-12-17 - Update translations
