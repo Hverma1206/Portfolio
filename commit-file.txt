@@ -1,1 +1,1 @@
-Commit for 2021-12-20 - Fix typo
+Commit for 2021-12-21 - Improve avatar loading
