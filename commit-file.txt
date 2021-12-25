@@ -1,1 +1,1 @@
-Commit for 2021-12-25 - Improve API documentation
+Commit for 2021-12-25 - Fix missing translations
