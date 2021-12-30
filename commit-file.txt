@@ -1,1 +1,1 @@
-Commit for 2021-12-30 - Fix iOS-specific bug
+Commit for 2021-12-30 - Optimize image compression
