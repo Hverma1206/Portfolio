@@ -1,1 +1,1 @@
-Commit for 2021-12-31 - Refactor GraphQL queries
+Commit for 2021-12-31 - Add logging
