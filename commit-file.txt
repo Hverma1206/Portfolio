@@ -1,1 +1,1 @@
-Commit for 2022-01-02 - Improve avatar loading
+Commit for 2022-01-02 - Optimize background sync
