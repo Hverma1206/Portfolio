@@ -1,1 +1,1 @@
-Commit for 2022-01-04 - Fix minor bug
+Commit for 2022-01-04 - Improve avatar loading
