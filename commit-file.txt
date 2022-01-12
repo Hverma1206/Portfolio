@@ -1,1 +1,1 @@
-Commit for 2022-01-11 - Refactor function
+Commit for 2022-01-12 - Fix minor bug
