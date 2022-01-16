@@ -1,1 +1,1 @@
-Commit for 2022-01-16 - Fix rare bug
+Commit for 2022-01-16 - Fix missing translations
