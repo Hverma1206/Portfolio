@@ -1,1 +1,1 @@
-Commit for 2022-01-20 - Fix date formatting
+Commit for 2022-01-20 - Enhance modal animations
