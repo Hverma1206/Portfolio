@@ -1,1 +1,1 @@
-Commit for 2022-01-20 - Enhance modal animations
+Commit for 2022-01-21 - Fix minor bug
