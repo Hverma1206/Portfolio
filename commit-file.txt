@@ -1,1 +1,1 @@
-Commit for 2022-01-28 - Refactor function
+Commit for 2022-01-28 - Fix deployment script
