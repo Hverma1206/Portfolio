@@ -1,1 +1,1 @@
-Commit for 2022-01-30 - Fix date formatting
+Commit for 2022-01-30 - Add logging
