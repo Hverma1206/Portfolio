@@ -1,1 +1,1 @@
-Commit for 2022-01-31 - Optimize sorting algorithm
+Commit for 2022-01-31 - Update README
