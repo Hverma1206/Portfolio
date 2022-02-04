@@ -1,1 +1,1 @@
-Commit for 2022-02-04 - Improve lazy loading
+Commit for 2022-02-04 - Improve image loading
