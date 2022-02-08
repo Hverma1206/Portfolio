@@ -1,1 +1,1 @@
-Commit for 2022-02-07 - Optimize session handling
+Commit for 2022-02-08 - Refactor database schema
