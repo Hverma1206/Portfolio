@@ -1,1 +1,1 @@
-Commit for 2022-02-10 - Improve avatar loading
+Commit for 2022-02-10 - Improve dark mode
