@@ -1,1 +1,1 @@
-Commit for 2022-02-18 - Optimize sorting algorithm
+Commit for 2022-02-18 - Fix validation regex
