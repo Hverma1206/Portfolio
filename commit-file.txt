@@ -1,1 +1,1 @@
-Commit for 2022-02-17 - Improve password hashing
+Commit for 2022-02-18 - Improve accessibility labels
