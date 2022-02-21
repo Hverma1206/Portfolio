@@ -1,1 +1,1 @@
-Commit for 2022-02-21 - Fix pagination
+Commit for 2022-02-21 - Optimize background sync
