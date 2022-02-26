@@ -1,1 +1,1 @@
-Commit for 2022-02-26 - Improve breadcrumb navigation
+Commit for 2022-02-26 - Fix minor bug
