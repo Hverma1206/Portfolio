@@ -1,1 +1,1 @@
-Commit for 2022-03-05 - Improve animations
+Commit for 2022-03-05 - Fix WebSocket issues
