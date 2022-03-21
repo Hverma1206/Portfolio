@@ -1,1 +1,1 @@
-Commit for 2022-03-20 - Optimize image compression
+Commit for 2022-03-21 - Improve accessibility labels
