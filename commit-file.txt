@@ -1,1 +1,1 @@
-Commit for 2022-03-23 - Improve navbar design
+Commit for 2022-03-23 - Adjust spacing
