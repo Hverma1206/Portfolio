@@ -1,1 +1,1 @@
-Commit for 2022-03-27 - Fix server crash
+Commit for 2022-03-28 - Add logging
