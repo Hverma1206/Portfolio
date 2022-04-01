@@ -1,1 +1,1 @@
-Commit for 2022-04-01 - Enhance dropdown styling
+Commit for 2022-04-01 - Fix missing translations
