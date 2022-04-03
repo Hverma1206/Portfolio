@@ -1,1 +1,1 @@
-Commit for 2022-04-03 - Refactor database schema
+Commit for 2022-04-03 - Fix typo
