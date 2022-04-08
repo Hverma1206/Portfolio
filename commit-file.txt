@@ -1,1 +1,1 @@
-Commit for 2022-04-08 - Enhance UI
+Commit for 2022-04-08 - Improve navbar design
