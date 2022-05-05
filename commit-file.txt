@@ -1,1 +1,1 @@
-Commit for 2022-05-05 - Improve image loading
+Commit for 2022-05-05 - Refactor middleware logic
