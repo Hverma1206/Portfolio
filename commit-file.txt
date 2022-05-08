@@ -1,1 +1,1 @@
-Commit for 2022-05-08 - Enhance UI
+Commit for 2022-05-08 - Optimize background sync
