@@ -1,1 +1,1 @@
-Commit for 2022-05-10 - Reduce latency
+Commit for 2022-05-10 - Refactor function
