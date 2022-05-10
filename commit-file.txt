@@ -1,1 +1,1 @@
-Commit for 2022-05-10 - Refactor function
+Commit for 2022-05-10 - Improve server response headers
