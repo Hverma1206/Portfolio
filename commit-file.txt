@@ -1,1 +1,1 @@
-Commit for 2022-05-16 - Fix input focus behavior
+Commit for 2022-05-17 - Update translations
