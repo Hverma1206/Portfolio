@@ -1,1 +1,1 @@
-Commit for 2022-05-18 - Refactor Redux state
+Commit for 2022-05-18 - Refactor middleware logic
