@@ -1,1 +1,1 @@
-Commit for 2022-05-18 - Adjust layout
+Commit for 2022-05-19 - Refactor Redux state
