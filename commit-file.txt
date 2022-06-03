@@ -1,1 +1,1 @@
-Commit for 2022-06-02 - Update translations
+Commit for 2022-06-03 - Enhance login page
