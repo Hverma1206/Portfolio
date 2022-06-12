@@ -1,1 +1,1 @@
-Commit for 2022-06-12 - Improve API rate limiting
+Commit for 2022-06-12 - Fix WebSocket issues
