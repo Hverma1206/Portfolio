@@ -1,1 +1,1 @@
-Commit for 2022-06-12 - Fix WebSocket issues
+Commit for 2022-06-13 - Add logging
