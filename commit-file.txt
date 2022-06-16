@@ -1,1 +1,1 @@
-Commit for 2022-06-16 - Improve caching mechanism
+Commit for 2022-06-16 - Refactor middleware logic
