@@ -1,1 +1,1 @@
-Commit for 2022-06-18 - Enhance login page
+Commit for 2022-06-18 - Update README
