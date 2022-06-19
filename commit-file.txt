@@ -1,1 +1,1 @@
-Commit for 2022-06-18 - Update README
+Commit for 2022-06-19 - Improve animations
