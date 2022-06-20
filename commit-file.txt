@@ -1,1 +1,1 @@
-Commit for 2022-06-20 - Dependency update
+Commit for 2022-06-20 - Refactor Redux state
