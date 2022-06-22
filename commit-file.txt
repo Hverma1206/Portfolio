@@ -1,1 +1,1 @@
-Commit for 2022-06-22 - Fix memory leak
+Commit for 2022-06-22 - Improve breadcrumb navigation
