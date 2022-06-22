@@ -1,1 +1,1 @@
-Commit for 2022-06-22 - Improve breadcrumb navigation
+Commit for 2022-06-22 - Refactor Redux state
