@@ -1,1 +1,1 @@
-Commit for 2022-07-07 - Fix server crash
+Commit for 2022-07-07 - Fix missing translations
