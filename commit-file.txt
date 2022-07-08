@@ -1,1 +1,1 @@
-Commit for 2022-07-07 - Fix missing translations
+Commit for 2022-07-08 - Fix 404 errors
