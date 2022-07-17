@@ -1,1 +1,1 @@
-Commit for 2022-07-17 - Fix date formatting
+Commit for 2022-07-17 - Refactor middleware logic
