@@ -1,1 +1,1 @@
-Commit for 2022-07-17 - Refactor middleware logic
+Commit for 2022-07-17 - Improve breadcrumb navigation
