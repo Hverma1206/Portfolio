@@ -1,1 +1,1 @@
-Commit for 2022-07-26 - Improve breadcrumb navigation
+Commit for 2022-07-26 - Fix CSS issue
