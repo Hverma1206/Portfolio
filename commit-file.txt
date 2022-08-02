@@ -1,1 +1,1 @@
-Commit for 2022-08-02 - Improve breadcrumb navigation
+Commit for 2022-08-02 - Enhance modal animations
