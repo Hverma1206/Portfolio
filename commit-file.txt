@@ -1,1 +1,1 @@
-Commit for 2022-08-13 - Refactor function
+Commit for 2022-08-13 - Optimize background sync
