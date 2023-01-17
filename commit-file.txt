@@ -1,1 +1,1 @@
-Commit for 2019-05-20 - Improve keyboard shortcuts
+Commit for 2023-01-17 - Fix edge case
