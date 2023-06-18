@@ -1,1 +1,1 @@
-Commit for 2023-06-18 - Optimize image compression
+Commit for 2023-06-18 - Improve keyboard shortcuts
