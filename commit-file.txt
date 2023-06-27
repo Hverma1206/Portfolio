@@ -1,1 +1,1 @@
-Commit for 2019-11-08 - Improve breadcrumb navigation
+Commit for 2023-06-27 - Refactor GraphQL queries
