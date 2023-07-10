@@ -1,1 +1,1 @@
-Commit for 2023-07-10 - Improve server response headers
+Commit for 2023-07-10 - Fix edge case
