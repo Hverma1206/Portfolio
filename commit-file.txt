@@ -1,1 +1,1 @@
-Commit for 2023-08-06 - Improve breadcrumb navigation
+Commit for 2023-08-06 - Fix 404 errors
