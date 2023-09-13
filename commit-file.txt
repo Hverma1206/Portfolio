@@ -1,1 +1,1 @@
-Commit for 2020-01-28 - Fix rare bug
+Commit for 2020-01-28 - Update translations
