@@ -1,1 +1,1 @@
-Commit for 2020-02-28 - Remove unused code
+Commit for 2020-02-28 - Improve API documentation
