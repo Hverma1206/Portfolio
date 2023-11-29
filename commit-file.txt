@@ -1,2 +1,1 @@
-Commit for 2023-11-29 - Fix caching issue
-ashing
+Commit for 2023-11-29 - Code simplification
