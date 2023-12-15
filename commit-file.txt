@@ -1,1 +1,1 @@
-Commit for 2020-04-26 - Fix missing translations
+Commit for 2023-12-15 - Improve image loading
