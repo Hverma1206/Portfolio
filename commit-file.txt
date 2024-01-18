@@ -1,1 +1,1 @@
-Commit for 2020-05-26 - Fix deployment script
+Commit for 2020-05-27 - Fix WebSocket issues
