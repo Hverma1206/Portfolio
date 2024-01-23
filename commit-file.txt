@@ -1,1 +1,1 @@
-Commit for 2024-01-23 - Improve API rate limiting
+Commit for 2024-01-23 - Fix incorrect data display
