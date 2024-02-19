@@ -1,1 +1,1 @@
-Commit for 2020-06-24 - Optimize sorting algorithm
+Commit for 2020-06-24 - Code simplification
