@@ -1,1 +1,1 @@
-Commit for 2024-02-22 - Fix authorization logic
+Commit for 2024-02-22 - Improve navbar design
