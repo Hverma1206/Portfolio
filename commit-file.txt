@@ -1,1 +1,1 @@
-Commit for 2020-07-06 - Improve button responsiveness
+Commit for 2020-07-06 - Refactor CSS styles
