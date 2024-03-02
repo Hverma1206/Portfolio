@@ -1,1 +1,1 @@
-Commit for 2020-07-10 - Optimize API performance
+Commit for 2020-07-10 - Update translations
