@@ -1,1 +1,1 @@
-Commit for 2024-03-13 - Improve keyboard shortcuts
+Commit for 2024-03-13 - Enhance sorting logic
