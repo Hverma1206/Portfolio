@@ -1,1 +1,1 @@
-Commit for 2020-08-26 - Enhance login page
+Commit for 2020-08-26 - Fix input focus behavior
