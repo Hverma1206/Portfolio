@@ -1,1 +1,1 @@
-Commit for 2020-09-14 - Enhance sorting logic
+Commit for 2020-09-14 - Fix tooltip positioning
