@@ -1,1 +1,1 @@
-Commit for 2024-05-16 - Improve dark mode contrast
+Commit for 2024-05-16 - Enhance dropdown styling
