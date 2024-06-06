@@ -1,1 +1,1 @@
-Commit for 2020-10-27 - Refactor code
+Commit for 2020-10-27 - Fix input focus behavior
