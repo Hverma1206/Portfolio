@@ -1,1 +1,1 @@
-Commit for 2020-11-14 - Refactor backend routes
+Commit for 2024-06-24 - Refactor GraphQL queries
