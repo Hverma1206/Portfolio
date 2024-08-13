@@ -1,1 +1,1 @@
-Commit for 2024-08-13 - Enhance UI
+Commit for 2024-08-13 - Improve button responsiveness
