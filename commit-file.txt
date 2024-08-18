@@ -1,1 +1,1 @@
-Commit for 2024-08-18 - Fix date formatting
+Commit for 2024-08-18 - Refactor authentication
