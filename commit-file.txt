@@ -1,1 +1,1 @@
-Commit for 2024-08-28 - Refactor backend routes
+Commit for 2024-08-28 - Add logging
