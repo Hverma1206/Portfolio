@@ -1,1 +1,1 @@
-Commit for 2024-11-08 - Fix WebSocket issues
+Commit for 2024-11-08 - Improve avatar loading
