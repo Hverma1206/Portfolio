@@ -1,1 +1,1 @@
-Commit for 2024-11-19 - Improve password hashing
+Commit for 2024-11-20 - Improve logging
