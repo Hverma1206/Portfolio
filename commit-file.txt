@@ -1,1 +1,1 @@
-Commit for 2024-11-29 - Fix duplicate requests
+Commit for 2024-11-29 - Improve navbar design
