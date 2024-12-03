@@ -1,1 +1,1 @@
-Commit for 2024-12-03 - Fix validation regex
+Commit for 2024-12-03 - Improve mobile experience
