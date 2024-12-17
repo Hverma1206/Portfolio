@@ -1,1 +1,1 @@
-Commit for 2024-12-17 - Refactor function
+Commit for 2024-12-17 - Fix iOS-specific bug
