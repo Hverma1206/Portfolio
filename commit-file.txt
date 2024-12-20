@@ -1,1 +1,1 @@
-Commit for 2024-12-20 - Improve navbar design
+Commit for 2024-12-20 - Refactor function
