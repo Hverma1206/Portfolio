@@ -1,1 +1,1 @@
-Commit for 2024-12-19 - Fix 404 errors
+Commit for 2024-12-20 - Improve navbar design
