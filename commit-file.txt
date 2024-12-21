@@ -1,1 +1,1 @@
-Commit for 2024-12-21 - Update README
+Commit for 2024-12-21 - Improve input validation
