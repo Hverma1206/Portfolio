@@ -1,1 +1,1 @@
-Commit for 2024-12-23 - Optimize query
+Commit for 2024-12-23 - Improve lazy loading
