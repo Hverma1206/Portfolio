@@ -1,1 +1,1 @@
-Commit for 2024-12-29 - Improve keyboard shortcuts
+Commit for 2024-12-29 - Refactor database schema
