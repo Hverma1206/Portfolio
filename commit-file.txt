@@ -1,1 +1,1 @@
-Commit for 2025-01-03 - Improve breadcrumb navigation
+Commit for 2025-01-03 - Fix crash issue
