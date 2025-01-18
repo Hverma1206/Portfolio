@@ -1,1 +1,1 @@
-Commit for 2025-01-18 - Add logging
+Commit for 2025-01-18 - Refactor function
