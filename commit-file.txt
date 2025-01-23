@@ -1,1 +1,1 @@
-Commit for 2025-01-22 - Refactor API calls
+Commit for 2025-01-23 - Improve breadcrumb navigation
