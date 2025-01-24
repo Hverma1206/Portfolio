@@ -1,1 +1,1 @@
-Commit for 2025-01-24 - Improve button responsiveness
+Commit for 2025-01-24 - Fix WebSocket issues
