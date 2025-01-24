@@ -1,1 +1,1 @@
-Commit for 2025-01-24 - Fix WebSocket issues
+Commit for 2025-01-24 - Improve UX
