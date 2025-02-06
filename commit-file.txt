@@ -1,1 +1,1 @@
-Commit for 2025-02-06 - Refactor GraphQL queries
+Commit for 2025-02-06 - Improve password hashing
