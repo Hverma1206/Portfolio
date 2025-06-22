@@ -65,7 +65,6 @@ const ParticleField = ({
         ctx.globalAlpha = opacity;
         ctx.fill();
 
-        // Connect nearby particles
         for (let j = i + 1; j < particles.length; j++) {
           const p2 = particles[j];
           const dx = p.x - p2.x;
