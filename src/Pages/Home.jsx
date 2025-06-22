@@ -5,6 +5,7 @@ import EyeAnimation from "../animations/EyeAnimation";
 import HomeSocials from "../components/HomeSocials";
 import { u } from "motion/react-m";
 import WorkExperience from "../components/WorkExperience.jsx";
+import GitHubHeatmap from "../components/GitHubHeatmap";
 
 function Home() {
   const containerRef = useRef(null);
@@ -80,13 +81,13 @@ function Home() {
           viewport={{ once: true }}
           className="w-full px-4 md:px-8"
         >
+          {/* <GitHubHeatmap username="hverma1206" /> */}
+          
           <WorkExperience />
         </motion.div>
       </DisplayCard>
     </>
   );
 }
-
-
 
 export default Home;
